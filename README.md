@@ -1,6 +1,6 @@
 # Pubsub-Storage-subscription
 
-Terraform for PubSub using the Cloud Storage Subscriptions. This repo contains creation of the storage buckets, pubsub using the Cloud Storage Subscription.
+Terraform for PubSub using the Cloud Storage Subscriptions.
 
 Pub/Sub doesn't directly support subscriptions to Cloud Storage buckets. However, you can achieve a similar functionality using Cloud Storage subscriptions, which integrate Pub/Sub with Cloud Storage. The messages are sent as batches and stored in the Cloud Storage bucket. A single batch or file is stored as an object in the bucket. Here's how it works:
 
