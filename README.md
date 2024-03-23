@@ -72,10 +72,6 @@ Pub/Sub doesn't directly support subscriptions to Cloud Storage buckets. However
 
 ----
 
-Here are some resources for further exploration:
-
-- **Cloud Storage Subscriptions Documentation:**  [https://one.google.com/about/plans](https://one.google.com/about/plans)
-
-- **Creating Cloud Storage Subscriptions:**  [https://cloud.google.com/pubsub/docs/create-subscription](https://cloud.google.com/pubsub/docs/create-subscription)
+For in-depth instructions and details, refer to the official documentation on Storage subscriptions:  [Link](https://cloud.google.com/pubsub/docs/create-cloudstorage-subscription)
 
 This is not an official project and does not come with maintenance guarantees.
